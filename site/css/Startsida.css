@@ -1,0 +1,36 @@
+html, body {
+    margin: 0px;
+
+}
+
+#header {
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    margin-top: -47px;
+}
+
+
+
+#sg_text {
+    width: 600px;
+    color: orangered;
+    font-size: 70px;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+#logohatt {
+
+}
+
+#header_meny {
+    background-color: #ff3900;
+    height: 60px;
+}
+
+
