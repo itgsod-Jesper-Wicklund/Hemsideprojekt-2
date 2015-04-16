@@ -1,36 +1,110 @@
 html, body {
     margin: 0px;
+}
+
+body {
+    background: url('site/img/background.png');
+}
+
+nav {
+    background-color: #ff5e00;
+    border-width: 0;
+    height: 55px;
+    width: auto;
+}
+#ez {
+    font-size: 15px;
+}
+#button {
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 225px;
 
 }
 
-#header {
-    background-color: black;
-    height: 200px;
-    width: 100%;
-    margin-top: -47px;
+
+.nav-link {
+    float: left;
+    color: #fff;
 }
 
+.nav-link:hover {
+    color: #fff;
+    text-decoration: none;
+}
 
+.nav-link:link {
+    color: #fff;
+    text-decoration: none;
+}
 
-#sg_text {
-    width: 600px;
-    color: orangered;
-    font-size: 70px;
-    font-style: italic;
-    margin-left: auto;
-    margin-right: auto;
+.nav-link:visited {
+    color: #fff;
+    text-decoration: none;
+}
 
+.nav-link:active {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav > ul > li {
+    float: left;
+    list-style: none;
+    padding-right: 50px;
+    padding-left: auto;
+}
+
+nav > ul > li > a {
+    color: #fff;
+}
+
+nav > img {
+    float: left;
+    width: 3%;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.nav-list {
+    position: absolute;
+    margin-bottom: 0px;
+    margin-left: 250px;
+    margin-top: 50px;
 
 
 }
 
-#logohatt {
+footer {
+    height: 70px;
+    background-color: #ff5e00;
+    width: auto;
+    -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 1.2);
+    -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 1.2);
+    box-shadow:         0px 3px 5px rgba(100, 100, 100, 1.2);
+}
+#Copyright_color {
+    color: ;
+}
+
+.container {
+    -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 1.2);
+    -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 1.2);
+    box-shadow:         0px 3px 5px rgba(100, 100, 100, 1.2);
+    padding-right: 0px;
+    padding-left: 0px;
 
 }
 
-#header_meny {
-    background-color: #ff3900;
-    height: 60px;
+#content {
+    height: 600px;
+    background-color: white;
+}
+#nyhetrubrik {
+    font-style: normal;
+
 }
 
-
+.main {
+    height: 500px;
+}
