@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-    background-color: #ff5e00;
+    background-color: grey;
     border-width: 0;
     height: 55px;
     width: auto;
@@ -18,7 +18,7 @@ nav {
 #button {
     position: absolute;
     margin-top: 7px;
-    margin-left: 225px;
+    margin-left: 150px;
 
 }
 
@@ -34,9 +34,9 @@ nav > ul > li > a {
     color: #fff;
 }
 
-nav > img {
+img {
     float: left;
-    width: 35px;
+    width: 70px;
     margin-left: 10px;
     margin-top: 5px;
 }
@@ -49,6 +49,47 @@ nav > img {
 
 
 }
+
+.header {
+    background-color: #ff5e00;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+
+
+}
+#sgswag {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 50px;
+
+
+}
+
+#sgswag {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 50px;
+
+
+}
+
+#sgswag {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 50px;
+
+
+}
+
+#sgswag {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 50px;
+
+
+}
+
 
 footer {
     height: 70px;
