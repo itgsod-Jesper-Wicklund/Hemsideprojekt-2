@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-    background-color: grey;
+    background-color: #00b2aa;
     border-width: 0;
     height: 55px;
     width: auto;
@@ -94,7 +94,27 @@ footer {
     background-color: white;
 }
 
+#program {
+    margin-left: 150px;
+}
+#kockprogrammet {
+    font-size: 20px;
+}
+#kock {
+    margin-left: 150px;
+    margin-top: 50px;
+    width: 450px;
 
+}
+#samhällsprogrammet {
+    font-size: 20px;
+}
+#samhälle {
+    margin-left: 150px;
+    margin-top: 50px;
+    width: 450px;
+
+}
 .main {
     height: 500px;
 }
