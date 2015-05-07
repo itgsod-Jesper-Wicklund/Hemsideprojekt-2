@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-    background-color: grey;
+    background-color: #00b2aa;
     border-width: 0;
     height: 55px;
     width: auto;
@@ -91,6 +91,9 @@ footer {
 #content {
     height: 700px;
     background-color: white;
+}
+
+
 }
 
 

@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-    background-color: grey;
+    background-color: #00b2aa;
     border-width: 0;
     height: 55px;
     width: auto;
@@ -97,11 +97,12 @@ footer {
 }
 #randomtext {
     width: 250px;
+    height: 100px;
     margin-left: 150px;
 }
 #randomtext2 {
     width: 250px;
-
+    margin-top: -100px;
     margin-left: 500px;
 
 
