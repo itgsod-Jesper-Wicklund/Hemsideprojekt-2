@@ -1,0 +1,123 @@
+html, body {
+    margin: 0px;
+}
+
+body {
+    background: url('site/img/background.png');
+}
+
+nav {
+    background-color: #00b2aa;
+    border-width: 0;
+    height: 55px;
+    width: auto;
+}
+#ez {
+    font-size: 15px;
+}
+#button {
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 150px;
+
+}
+
+
+nav > ul > li {
+    float: left;
+    list-style: none;
+    padding-right: 50px;
+    padding-left: auto;
+}
+
+nav > ul > li > a {
+    color: #fff;
+}
+
+img {
+    float: left;
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.nav-list {
+    position: absolute;
+    margin-bottom: 0px;
+    margin-left: 250px;
+    margin-top: 50px;
+
+
+}
+
+.header {
+    background-color: #ff5e00;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+
+
+}
+#sgswag {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 50px;
+
+
+}
+
+#sgswag {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 50px;
+
+
+}
+
+#sgswag {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 50px;
+
+
+}
+
+#sgswag {
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 50px;
+
+
+}
+
+
+footer {
+    height: 70px;
+    background-color: #ff5e00;
+    width: auto;
+    -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 1.2);
+    -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 1.2);
+    box-shadow:         0px 3px 5px rgba(100, 100, 100, 1.2);
+}
+#Copyright_color {
+    color: ;
+}
+
+.container {
+    -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 1.2);
+    -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 1.2);
+    box-shadow:         0px 3px 5px rgba(100, 100, 100, 1.2);
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+
+#content {
+    height: 700px;
+    background-color: white;
+}
+
+
+.main {
+    height: 500px;
+}
