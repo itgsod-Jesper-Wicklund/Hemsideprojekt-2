@@ -90,30 +90,73 @@ footer {
 }
 
 #content {
-    height: 700px;
+    height: 1250px;
     background-color: white;
 }
 
 #program {
     margin-left: 150px;
+
 }
 #kockprogrammet {
     font-size: 20px;
+    margin-left: 10px;
+    font-style: italic;
+    color: #ff5e00;
 }
 #kock {
     margin-left: 150px;
     margin-top: 50px;
-    width: 450px;
+    width: 675px;
+    height: 210px;
+    background-color: #00b2aa;
 
+}
+#text1{
+    margin-top: 100px;
+    margin-left: 10px;
+
+}
+#kockswag {
+    width: 200px;
+    height: px;
 }
 #samhällsprogrammet {
     font-size: 20px;
+    margin-left: 10px;
+    font-style: italic;
+    color: #ff5e00;
 }
 #samhälle {
     margin-left: 150px;
     margin-top: 50px;
-    width: 450px;
+    width: 675px;
+    height: 210px;
+    background-color: #00b2aa;
 
+}
+#text2 {
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+#ekonomiprogrammet {
+    font-size: 20px;
+    margin-left: 10px;
+    font-style: italic;
+    color: #ff5e00;
+}
+#ekonomi {
+    margin-left: 150px;
+    margin-top: 50px;
+    width: 675px;
+    height: 210px;
+    background-color: #00b2aa;
+
+}
+#text3 {
+    margin-top: 100px;
+    margin-left: 10px;
 }
 .main {
     height: 500px;
