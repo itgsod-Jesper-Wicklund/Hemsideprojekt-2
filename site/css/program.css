@@ -90,12 +90,12 @@ footer {
 }
 
 #content {
-    height: 1250px;
+    height: 800px;
     background-color: white;
 }
 
 #program {
-    margin-left: 150px;
+    text-align: center;
 
 }
 #kockprogrammet {
@@ -108,18 +108,15 @@ footer {
     margin-left: 150px;
     margin-top: 50px;
     width: 675px;
-    height: 210px;
-    background-color: #00b2aa;
+    height: 175px;
+
+
 
 }
 #text1{
-    margin-top: 100px;
+
     margin-left: 10px;
 
-}
-#kockswag {
-    width: 200px;
-    height: px;
 }
 #samhällsprogrammet {
     font-size: 20px;
@@ -131,12 +128,12 @@ footer {
     margin-left: 150px;
     margin-top: 50px;
     width: 675px;
-    height: 210px;
-    background-color: #00b2aa;
+    height: 175px;
+
 
 }
 #text2 {
-    margin-top: 100px;
+
     margin-left: 10px;
 }
 
@@ -150,12 +147,12 @@ footer {
     margin-left: 150px;
     margin-top: 50px;
     width: 675px;
-    height: 210px;
-    background-color: #00b2aa;
+    height: 175px;
+
 
 }
 #text3 {
-    margin-top: 100px;
+
     margin-left: 10px;
 }
 .main {

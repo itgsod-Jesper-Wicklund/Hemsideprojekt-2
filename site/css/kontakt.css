@@ -113,8 +113,13 @@ footer {
 }
 
 #content {
-    height: 700px;
+    height: 400px;
     background-color: white;
+}
+#kontakt_rubrik {
+    text-align: center;
+
+
 }
 
 
