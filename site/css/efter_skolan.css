@@ -90,13 +90,39 @@ footer {
 
 #content {
     height: 700px;
-    background-color: white;
+    background-color: ;
 }
 
-
-}
 
 
 .main {
     height: 500px;
+}
+
+#myCarousel {
+    margin-top: 0px;
+}
+
+.carousel-caption {
+    font-size: 24px;
+}
+
+.carousel-caption h4 {
+    font-size: 32px;
+}
+
+#myCarousel .item {
+    height: 400px;
+}
+
+#slide1 {
+    background: url('http://www.clker.com/cliparts/m/u/f/F/X/g/abstract-rainbow-background.svg') top center no-repeat;
+}
+
+#slide2 {
+    background: url('http://www.clker.com/cliparts/m/u/f/F/X/g/abstract-rainbow-background.svg') top center no-repeat;
+}
+
+#slide3 {
+    background: url('http://www.clker.com/cliparts/m/u/f/F/X/g/abstract-rainbow-background.svg') top center no-repeat;
 }
