@@ -62,6 +62,7 @@ img {
     margin-left: 300px;
     margin-top: 0px;
     font-size: 50px;
+    color: #ffffff;
 
 
 }
@@ -100,29 +101,15 @@ footer {
 }
 
 #myCarousel {
-    margin-top: 0px;
-}
-
-.carousel-caption {
-    font-size: 24px;
-}
-
-.carousel-caption h4 {
-    font-size: 32px;
-}
-
-#myCarousel .item {
     height: 400px;
-}
 
-#slide1 {
-    background: url('http://www.clker.com/cliparts/m/u/f/F/X/g/abstract-rainbow-background.svg') top center no-repeat;
 }
+#efterskolanimg {
+    margin: 0px;
+    width: 970px;
+    height: 400px;
+    float: left;
 
-#slide2 {
-    background: url('http://www.clker.com/cliparts/m/u/f/F/X/g/abstract-rainbow-background.svg') top center no-repeat;
-}
 
-#slide3 {
-    background: url('http://www.clker.com/cliparts/m/u/f/F/X/g/abstract-rainbow-background.svg') top center no-repeat;
-}
+ }
+
