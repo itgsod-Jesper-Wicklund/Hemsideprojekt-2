@@ -60,11 +60,13 @@ img {
 }
 #nyheter {
     text-align: center;
+    color: #ff5e00;
 }
 #sgswag {
     margin-left: 300px;
     margin-top: 0px;
     font-size: 50px;
+    color: #ffffff;
 
 
 
@@ -106,6 +108,14 @@ footer {
     width: 250px;
     margin-top: -100px;
     margin-left: 500px;
+
+
+}
+#rektor_img {
+    margin-left: 500px;
+    margin-top: 0px;
+    width: 250px;
+    height: 160px;
 
 
 }
