@@ -109,7 +109,16 @@ footer {
     width: 970px;
     height: 400px;
     float: left;
+}
 
+#efter_skolan {
+    text-align: center;
+    color: #ff5e00;
+}
+#efterskolan_text {
+    width: 500px;
+    margin-left: 250px;
 
- }
+}
+
 

@@ -62,6 +62,7 @@ img {
     margin-left: 300px;
     margin-top: 0px;
     font-size: 50px;
+    color: #ffffff;
 
 
 }
@@ -94,8 +95,10 @@ footer {
     background-color: white;
 }
 
+
 #program {
     text-align: center;
+    color: #ff5e00;
 
 }
 #kockprogrammet {

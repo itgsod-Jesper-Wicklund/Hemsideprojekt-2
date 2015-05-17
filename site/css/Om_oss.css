@@ -62,6 +62,7 @@ img {
     margin-left: 300px;
     margin-top: 0px;
     font-size: 50px;
+    color: #ffffff;
 
 
 }
@@ -113,8 +114,18 @@ footer {
 }
 
 #content {
-    height: 700px;
+    height: 400px;
     background-color: white;
+}
+
+#omoss {
+    text-align: center;
+    color: #ff5e00;
+
+}
+#omosstext{
+    width: 500px;
+    margin-left: 250px;
 }
 
 
